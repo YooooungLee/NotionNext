@@ -7,7 +7,7 @@ const CONFIG = {
 
   MAGZINE_HOME_HIDDEN_CATEGORY: '分享杂文', //不希望在首页展示的文章分类，用英文逗号隔开
 
-  MAGZINE_HOME_TITLE: '如果你问我摸鱼的时间有什么产出，我会把这个呈现给你',
+  MAGZINE_HOME_TITLE: '如果你问我工作之余有什么产出，那么来看看这个网站',
   MAGZINE_HOME_DESCRIPTION:
     '如果你无力改变环境，就去努力改变自己吧！',
   MAGZINE_HOME_TIPS: 'AI时代来临，打造个人IP从未如此简单。',
